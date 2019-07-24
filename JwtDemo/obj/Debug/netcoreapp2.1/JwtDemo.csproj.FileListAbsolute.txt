@@ -1,0 +1,13 @@
+F:\Source\TestJenkins\daiproject\JwtDemo\bin\Debug\netcoreapp2.1\JwtDemo.deps.json
+F:\Source\TestJenkins\daiproject\JwtDemo\bin\Debug\netcoreapp2.1\JwtDemo.runtimeconfig.json
+F:\Source\TestJenkins\daiproject\JwtDemo\bin\Debug\netcoreapp2.1\JwtDemo.runtimeconfig.dev.json
+F:\Source\TestJenkins\daiproject\JwtDemo\bin\Debug\netcoreapp2.1\JwtDemo.dll
+F:\Source\TestJenkins\daiproject\JwtDemo\bin\Debug\netcoreapp2.1\JwtDemo.pdb
+F:\Source\TestJenkins\daiproject\JwtDemo\obj\Debug\netcoreapp2.1\JwtDemo.csproj.CoreCompileInputs.cache
+F:\Source\TestJenkins\daiproject\JwtDemo\obj\Debug\netcoreapp2.1\JwtDemo.RazorAssemblyInfo.cache
+F:\Source\TestJenkins\daiproject\JwtDemo\obj\Debug\netcoreapp2.1\JwtDemo.RazorAssemblyInfo.cs
+F:\Source\TestJenkins\daiproject\JwtDemo\obj\Debug\netcoreapp2.1\JwtDemo.AssemblyInfoInputs.cache
+F:\Source\TestJenkins\daiproject\JwtDemo\obj\Debug\netcoreapp2.1\JwtDemo.AssemblyInfo.cs
+F:\Source\TestJenkins\daiproject\JwtDemo\obj\Debug\netcoreapp2.1\JwtDemo.RazorTargetAssemblyInfo.cache
+F:\Source\TestJenkins\daiproject\JwtDemo\obj\Debug\netcoreapp2.1\JwtDemo.dll
+F:\Source\TestJenkins\daiproject\JwtDemo\obj\Debug\netcoreapp2.1\JwtDemo.pdb
